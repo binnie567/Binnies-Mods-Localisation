@@ -223,7 +223,7 @@ binniecore.gui.design=Design
 
 
 
-< Descriptions used for effects in the database >
+< Descriptions used for effects in the registry >
 binniecore.allele.extrabees.effect.acid.desc=Dissolves stone and dirt
 binniecore.allele.forestry.effectAggressive.desc=Attacks players
 binniecore.allele.forestry.effectBeatific.desc=Slowly restores health to players
@@ -263,3 +263,37 @@ binniecore.allele.extrabees.effect.water.desc=Fills machines with water
 binniecore.allele.extrabees.effect.wither.desc=Withers anyone who approaches
 binniecore.allele.extrabees.effect.spawn_zombie.desc=Randomly spawns zombies
 binniecore.allele.forestry.effectFestiveEaster.desc=Does nothing
+
+
+
+< Names for slots when using help tooltip >
+binniecore.gui.slot.slot=Slot
+binniecore.gui.slot.input=Input Slot
+binniecore.gui.slot.process=Process Slot
+binniecore.gui.slot.output=Output Slot
+binniecore.gui.slot.frame=Frame Slot
+binniecore.gui.slot.mutator=Mutator Slot
+binniecore.gui.slot.circuit=Circuit Slot
+binniecore.gui.slot.grain=Grain Slot
+binniecore.gui.slot.inventory=Inventory Slot
+binniecore.gui.slot.caterpillar=Caterpillar Slot
+binniecore.gui.slot.polish=Polish Slot
+binniecore.gui.slot.wood=Wood Slot
+binniecore.gui.slot.acclimatiser=Acclimatiser Item Slot
+binniecore.gui.slot.analyse=Analyse Slot
+binniecore.gui.slot.dye=Dye Slot
+binniecore.gui.slot.incubator=Incubator Slot
+binniecore.gui.slot.compartment=Compartment Slot
+binniecore.gui.slot.ingredient=Ingredient Slot
+binniecore.gui.slot.byproduct=Byproduct Slot
+binniecore.gui.slot.enzyme=Enzyme Slot
+binniecore.gui.slot.sequencervial=Sequencer Vial Slot
+binniecore.gui.slot.catalyst=Catalyst Slot
+binniecore.gui.slot.serum.input=Serum Input Slot
+binniecore.gui.slot.serum.output=Serum Output Slot
+binniecore.gui.slot.serum.active=Active Serum Slot
+binniecore.gui.slot.yeast=Yeast Slot
+
+binniecore.gui.tank.input=Input Tank
+binniecore.gui.tank.process=Process Tank
+binniecore.gui.tank.output=Output Tank

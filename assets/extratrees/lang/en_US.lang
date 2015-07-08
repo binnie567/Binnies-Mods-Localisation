@@ -183,9 +183,21 @@ extratrees.block.door.type.full=Full
 
 < %1$s is name of the wood>
 extratrees.block.plank.name=%1$s Wood Planks
-
-< %1$s is name of wood >
 extratrees.block.log.name=%1$s Wood
+extratrees.block.woodslab.name=%1$s Wood Slab
+extratrees.block.woodstairs.name=%1$s Stairs
+extratrees.block.woodfence.name=%1$s Fence
+extratrees.block.woodgate.name=%1$s Gate
+
+< %1$s is the adjective for the fence type, %2$s is the name of the wood >
+extratrees.block.multifence.name=%2$s %1$s Gate
+< %3$s is the name of the second wood >
+extratrees.block.multifence.name2=%2$s %1$s & $2$s Gate
+
+< %1$s is name of the design >
+extratrees.block.woodentile.name=%1$s Wooden Tile
+extratrees.block.woodenpanel.name=%1$s Wooden Panel
+extratrees.block.stainedglass.name=%1$s Stained Glass
 
 extratrees.species.orchardapple.name=Orchard Apple
 extratrees.species.sweetcrabapple.name=Sweet Crabapple
