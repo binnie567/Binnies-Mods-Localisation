@@ -1,0 +1,266 @@
+binniecore.mod.name=Binnie Core
+
+binniecore.rootBees.descriptor=Apiculteur
+binniecore.rootTrees.descriptor=Arboriste
+binniecore.rootButterflies.descriptor=Lepidoptériste
+binniecore.rootFlowers.descriptor=Botaniste
+
+binniecore.rootBees.shortName=Abeilles
+binniecore.rootTrees.shortName=Arbres
+binniecore.rootButterflies.shortName=Papillons & Mites
+binniecore.rootFlowers.shortName=Fleurs
+
+binniecore.rootBees.epitome.0=Écrabouilleur d'Abeilles
+binniecore.rootBees.epitome.1=Apiculteur Amateur
+binniecore.rootBees.epitome.2=Élève Apiculteur
+binniecore.rootBees.epitome.3=Apiculteur Professionel
+binniecore.rootBees.epitome.4=Maître Apiculteur
+binniecore.rootBees.epitome.5=Dieu entre Apiculteurs
+binniecore.rootBees.epitome.6=L'Élu de Sengir
+
+binniecore.rootTrees.epitome.0=Éleveur d'Arbustes
+binniecore.rootTrees.epitome.1=Bûcheron
+binniecore.rootTrees.epitome.2=Main Verte
+binniecore.rootTrees.epitome.3=Fermier Renommé
+binniecore.rootTrees.epitome.4=Maître Arboriste
+binniecore.rootTrees.epitome.5=Seigneur des Arbres
+binniecore.rootTrees.epitome.6=Mère Nature
+
+binniecore.rootButterflies.epitome.0=Attrapeur d'Insectes
+binniecore.rootButterflies.epitome.1=Chasseur de Mites
+binniecore.rootButterflies.epitome.2=Lépidoptériste Magique
+binniecore.rootButterflies.epitome.3=Seigneur des Chenilles
+binniecore.rootButterflies.epitome.4=Assasin Ailé
+binniecore.rootButterflies.epitome.5=Roi de la Mite
+binniecore.rootButterflies.epitome.6=Empereur des Papillons
+
+binniecore.rootFlowers.epitome.0=P'tite Pâquerette
+binniecore.rootFlowers.epitome.1=Engrais à Marguerite
+binniecore.rootFlowers.epitome.2=Flower Power
+binniecore.rootFlowers.epitome.3=Doité d'Or
+binniecore.rootFlowers.epitome.4=Main Verte
+binniecore.rootFlowers.epitome.5=Maître Jardinier
+binniecore.rootFlowers.epitome.6=Botaniste Hors Pair
+
+binniecore.rootBees.chromosome.species=Espève
+binniecore.rootBees.chromosome.speed=Production
+binniecore.rootBees.chromosome.lifespan=Durée de Vie
+binniecore.rootBees.chromosome.fertility=Fertilité
+binniecore.rootBees.chromosome.temperature_tolerance=Tolérance de Température
+binniecore.rootBees.chromosome.nocturnal=Nocturne
+binniecore.rootBees.chromosome.humidity=Humidité
+binniecore.rootBees.chromosome.humidity_tolerance=Tolérance d'Humidité
+binniecore.rootBees.chromosome.tolerant_flyer=Tolérance de Pluie
+binniecore.rootBees.chromosome.cave_dwelling=Des Cavernes
+binniecore.rootBees.chromosome.flower_provider=Fleurs
+binniecore.rootBees.chromosome.flowering=Pollinisation
+binniecore.rootBees.chromosome.territory=Territoire
+binniecore.rootBees.chromosome.effect=Effet
+
+binniecore.rootBees.chromosome.species.short=Espèces
+binniecore.rootBees.chromosome.speed.short=Production
+binniecore.rootBees.chromosome.lifespan.short=Dur. Vie
+binniecore.rootBees.chromosome.fertility.short=Fertilité
+binniecore.rootBees.chromosome.temperature_tolerance.short=Tol. Temp.
+binniecore.rootBees.chromosome.nocturnal.short=Nocturne
+binniecore.rootBees.chromosome.humidity.short=Humidité
+binniecore.rootBees.chromosome.humidity_tolerance.short=Tol. Humid.
+binniecore.rootBees.chromosome.tolerant_flyer.short=Tol. Pluie
+binniecore.rootBees.chromosome.cave_dwelling.short=Des Cavernes
+binniecore.rootBees.chromosome.flower_provider.short=Fleurs
+binniecore.rootBees.chromosome.flowering.short=Pollinisation
+binniecore.rootBees.chromosome.territory.short=Territoire
+binniecore.rootBees.chromosome.effect.short=Effet
+
+binniecore.rootTrees.chromosome.species=Espèces
+binniecore.rootTrees.chromosome.growth=Croissance
+binniecore.rootTrees.chromosome.height=Hauteur
+binniecore.rootTrees.chromosome.fertility=Fertilité
+binniecore.rootTrees.chromosome.fruits=Fruit
+binniecore.rootTrees.chromosome.yield=Production
+binniecore.rootTrees.chromosome.plant=Type de Plante
+binniecore.rootTrees.chromosome.sappiness=Niveau de Sève
+binniecore.rootTrees.chromosome.territory=Territoire
+binniecore.rootTrees.chromosome.effect=Effet
+binniecore.rootTrees.chromosome.maturation=Maturation
+binniecore.rootTrees.chromosome.girth=Circonférence
+binniecore.rootTrees.chromosome.fireproof=Anti Feu
+
+binniecore.rootTrees.chromosome.species.short=Espèces
+binniecore.rootTrees.chromosome.growth.short=Croissance
+binniecore.rootTrees.chromosome.height.short=Hauteur
+binniecore.rootTrees.chromosome.fertility.short=Fertilité
+binniecore.rootTrees.chromosome.fruits.short=Fruit
+binniecore.rootTrees.chromosome.yield.short=Production
+binniecore.rootTrees.chromosome.plant.short=Type de Plante
+binniecore.rootTrees.chromosome.sappiness.short=Niv. Sève
+binniecore.rootTrees.chromosome.territory.short=Territoire
+binniecore.rootTrees.chromosome.effect.short=Effet
+binniecore.rootTrees.chromosome.maturation.short=Maturation
+binniecore.rootTrees.chromosome.girth.short=Circonférence
+binniecore.rootTrees.chromosome.fireproof.short=Anti Feu
+
+binniecore.rootButterflies.chromosome.species=Espèces
+binniecore.rootButterflies.chromosome.size=Taille
+binniecore.rootButterflies.chromosome.speed=Vitesse
+binniecore.rootButterflies.chromosome.lifespan=Durée de Vie
+binniecore.rootButterflies.chromosome.metabolism=Metabolisme
+binniecore.rootButterflies.chromosome.fertility=Fertilité
+binniecore.rootButterflies.chromosome.temperature_tolerance=Tolérance de Température
+binniecore.rootButterflies.chromosome.humidity_tolerance=Tolérance d'Humidité
+binniecore.rootButterflies.chromosome.nocturnal=Nocturne
+binniecore.rootButterflies.chromosome.tolerant_flyer=Tolérence de Pluie
+binniecore.rootButterflies.chromosome.fire_resist=Resistance au Feu
+binniecore.rootButterflies.chromosome.flower_provider=Fleurs
+binniecore.rootButterflies.chromosome.effect=Effet
+binniecore.rootButterflies.chromosome.territory=Territoire
+
+binniecore.rootButterflies.chromosome.species.short=Espèces
+binniecore.rootButterflies.chromosome.size.short=Taille
+binniecore.rootButterflies.chromosome.speed.short=Vitesse
+binniecore.rootButterflies.chromosome.lifespan.short=Dur. Vie
+binniecore.rootButterflies.chromosome.metabolism.short=Metabolisme
+binniecore.rootButterflies.chromosome.fertility.short=Fertilité
+binniecore.rootButterflies.chromosome.temperature_tolerance.short=Tol. Temp.
+binniecore.rootButterflies.chromosome.humidity_tolerance.short=Tol. Humid.
+binniecore.rootButterflies.chromosome.nocturnal.short=Nocturne
+binniecore.rootButterflies.chromosome.tolerant_flyer.short=Tol. Pluie
+binniecore.rootButterflies.chromosome.fire_resist.short=Resist. Feu
+binniecore.rootButterflies.chromosome.flower_provider.short=Fleurs
+binniecore.rootButterflies.chromosome.effect.short=Effet
+binniecore.rootButterflies.chromosome.territory.short=Territoire
+
+binniecore.rootFlowers.chromosome.species=Espèces
+binniecore.rootFlowers.chromosome.primary=Couleur Primaire
+binniecore.rootFlowers.chromosome.secondary=Couleur Secondaire
+binniecore.rootFlowers.chromosome.fertility=Fertilité
+binniecore.rootFlowers.chromosome.territory=Territoire
+binniecore.rootFlowers.chromosome.effect=Effet
+binniecore.rootFlowers.chromosome.lifespan=Durée de Vie
+binniecore.rootFlowers.chromosome.temperature_tolerance=Tolérance de Température
+binniecore.rootFlowers.chromosome.humidity_tolerance=Tolérance d'Humidité
+binniecore.rootFlowers.chromosome.ph_tolerance=Tolerance du pH
+binniecore.rootFlowers.chromosome.sappiness=Nectar
+binniecore.rootFlowers.chromosome.stem=Couleur de Tige
+
+binniecore.rootFlowers.chromosome.species.short=Espèce
+binniecore.rootFlowers.chromosome.primary.short=Coul. Prim.
+binniecore.rootFlowers.chromosome.secondary.short=Coul. Sec.
+binniecore.rootFlowers.chromosome.fertility.short=Fertilité
+binniecore.rootFlowers.chromosome.territory.short=Territoire
+binniecore.rootFlowers.chromosome.effect.short=Effet
+binniecore.rootFlowers.chromosome.lifespan.short=Dur. Vie
+binniecore.rootFlowers.chromosome.temperature_tolerance.short=Tol. Temp.
+binniecore.rootFlowers.chromosome.humidity_tolerance.short=Tol. Temp.
+binniecore.rootFlowers.chromosome.ph_tolerance.short=Tol. pH
+binniecore.rootFlowers.chromosome.sappiness.short=Nectar
+binniecore.rootFlowers.chromosome.stem.short=Coul. Tige
+
+< TODO: Is this used in context with the word "fertility"? >
+binniecore.allele.fertility.low=Basse
+binniecore.allele.fertility.normal=Moyenne
+binniecore.allele.fertility.high=Haute
+binniecore.allele.fertility.maximum=Maximale
+
+binniecore.allele.true=Oui
+binniecore.allele.false=Non
+
+binniecore.allele.metabolism.highest=Le Plus Haut
+binniecore.allele.metabolism.higher=Plue Haut
+binniecore.allele.metabolism.high=Haut
+binniecore.allele.metabolism.average=Moyen
+binniecore.allele.metabolism.slow=Lent
+binniecore.allele.metabolism.slower=Plus Lent
+binniecore.allele.metabolism.slowest=Le Plus Lent
+
+
+binniecore.allele.none=Aucun
+
+binniecore.allele.growth.tropical=Tropical
+binniecore.allele.growth.lightlevel=Niveau de Lumière
+
+
+binniecore.beemodifier.territory=Territoore
+binniecore.beemodifier.mutation=Mutation
+binniecore.beemodifier.lifespan=Durée de Vie
+binniecore.beemodifier.production=Production
+binniecore.beemodifier.flowering=Floraison
+binniecore.beemodifier.geneticdecay=Détérioration Génétique
+
+binniecore.gui.breedingmessage.species=Espèce Découverte
+binniecore.gui.breedingmessage.branch=Branche Découverte
+binniecore.gui.breedingmessage.epithet=Épithète Reçue
+
+binniecore.item.container.capsule=Capsule
+binniecore.item.container.refractory=Capsule
+binniecore.item.container.can=Arrosoir
+binniecore.item.container.bucket=Saut
+binniecore.item.container.glass=Bouteille
+binniecore.item.container.cylinder=Cylindre
+
+binniecore.machine.storage.compartment=Compartiment
+binniecore.machine.storage.compartmentIron=Compartiment en Fer
+binniecore.machine.storage.compartmentDiamond=Compartiment en Diamand
+binniecore.machine.storage.compartmentCopper=Compartiment en Cuivre
+binniecore.machine.storage.compartmentBronze=Compartiment en Bronze
+binniecore.machine.storage.compartmentGold=Compartiment en Or
+
+< %1$s is the name of the pattern >
+binniecore.gui.designer.pattern=Modèle %1$s
+
+binniecore.gui.database.nodescription=Aucune Description.
+
+binniecore.gui.database.mode.species=Espèces
+binniecore.gui.database.mode.branches=Branches
+binniecore.gui.database.mode.breeder=Éleveur
+
+binniecore.gui.temperature.short=Temp.
+binniecore.gui.humidity.short=Humid.
+
+binniecore.gui.tolerated=Toléré
+binniecore.gui.nottolerated=Non-Toléré
+
+binniecore.gui.design=Désign
+
+
+
+< Descriptions used for effects in the database >
+binniecore.allele.extrabees.effect.acid.desc=Dissous pierre et terre
+binniecore.allele.forestry.effectAggressive.desc=Attaque les joueurs
+binniecore.allele.forestry.effectBeatific.desc=Retourne lentement les pv aux joueurs
+binniecore.allele.forestry.effectCreeper.desc=Explose violemment à l'approche
+binniecore.allele.extrabees.effect.spawn_creeper.desc=Pond des creepers au hazard
+binniecore.allele.extrabees.effect.blindness.desc=Aveugle les joueurs
+binniecore.allele.forestry.effectDrunkard.desc=Cause les joueurs de devenir ivre
+binniecore.allele.extrabees.effect.ectoplasm.desc=Crée une sangle d'ectoplasme
+binniecore.allele.forestry.effectMisanthrope.desc=Défend agressivement sa ruche
+binniecore.allele.forestry.effectExploration.desc=Récompense lentement les joueurs proches avec de l'expérience
+binniecore.allele.forestry.effectFertile.desc=Stimule les blocs voisins
+binniecore.allele.extrabees.effect.fireworks.desc=Déclenche spontanément des feux d'artifice
+binniecore.allele.forestry.effectIgnition.desc=Aléatoirement met le feu
+binniecore.allele.forestry.effectGlacial.desc=Gèle lentement sur l'eau
+binniecore.allele.extrabees.effect.gravity.desc=Attire des entités vers la ruche
+binniecore.allele.extrabees.effect.bonemealsapling.desc=Farine d'os sur les arbustes
+binniecore.allele.forestry.effectHeroic.desc=Défend la ruche contre les mobs
+binniecore.allele.extrabees.effect.hunger.desc=Cause la faim au joureurs
+binniecore.allele.extrabees.effect.lightning.desc=Stimule la foudre
+binniecore.allele.extrabees.effect.meteor.desc=Cause une pluie de météores
+binniecore.allele.extrabees.effect.bonemealmushroom.desc=Farine d'os sur les champignons
+binniecore.allele.forestry.effectMycophilic.desc=Répend les champignons et le mycélium
+binniecore.allele.forestry.effectNone.desc=Aucun effet visible
+binniecore.allele.forestry.effectMiasmic.desc=Empoisonne les joueurs
+binniecore.allele.extrabees.effect.power.desc=Fournit de l'énergie aux machines
+binniecore.allele.forestry.effectRadioactive.desc=Détruits les blocs voisins
+binniecore.allele.forestry.effectReanimation.desc=Réanime les mobs morts
+binniecore.allele.forestry.effectRepulsion.desc=Encourage naturellement les mobs à l'éviter
+binniecore.allele.forestry.effectResurrection.desc=Ressuscite les mobds morts
+binniecore.allele.extrabees.effect.bonemealfruit.desc=Farine d'os sur feuilles de fruits
+binniecore.allele.extrabees.effect.spawn_skeleton.desc=Pond des squelettes au hazard
+binniecore.allele.extrabees.effect.slow.desc=Ralenti les joueurs
+binniecore.allele.forestry.effectSnowing.desc=Cause la neige à tomber
+binniecore.allele.extrabees.effect.teleport.desc=Téléporte des entités au hazard
+binniecore.allele.extrabees.effect.radioactive.desc=Irradies les joueurs s'approchant
+binniecore.allele.extrabees.effect.water.desc=Remplie les machines d'eau
+binniecore.allele.extrabees.effect.wither.desc=Flétri tous qui s'approchent
+binniecore.allele.extrabees.effect.spawn_zombie.desc=Pond des zombies au hazard
+binniecore.allele.forestry.effectFestiveEaster.desc=Aucun Effet
